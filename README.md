@@ -5,6 +5,7 @@ This application lets user create a account & log in with secure authentication.
 This application lets user create a place, create comments, giving description about the place & giving the approximate budget per person to travel there.
 User who creates a place or comment have complete authorization to create or delete that place or comment.
 People can also review the places for other fellow travellers.
+https://peaceful-refuge-68988.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/65938639/129485175-dce64f91-992b-434d-bc91-0647e99b87d6.png)
 
